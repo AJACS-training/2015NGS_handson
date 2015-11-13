@@ -56,6 +56,10 @@ NGSの概論的な講義は実施しません。リード、ペアエンドな�
 山口 昌男  
 (アメリエフ株式会社)
 
+2015年8月5日 「[NGS解析 - RNA-seq、カウントデータ取得以降の統計解析](https://github.com/AJACS-training/2015NGS_handson/blob/master/kadota4/)」  
+門田 幸二  
+(東京大学大学院 農学生命科学研究科)
+
 2015年8月6日 「[NGS解析 - ChIP-seq](https://github.com/AJACS-training/2015NGS_handson/blob/master/morioka/)」  
 森岡 勝樹  
 (理化学研究所 情報基盤センター)  
