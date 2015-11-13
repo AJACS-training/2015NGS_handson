@@ -13,6 +13,8 @@
 NGSの概論的な講義は実施しません。リード、ペアエンドなどの基本的な用語やNGS原理の説明などは省略する予定です。
 [昨年度(平成26年度)の講義資料や参考図書](http://biosciencedbc.jp/human/human-resources/workshop/h26)など参照の上、受講希望項目の基礎知識を取得しておくことをおすすめします。  
 
+[全体の講習資料はこちら](http://www.iu.a.u-tokyo.ac.jp/~kadota/r_seq.html#bioinfo_ngs_sokushu_2015)
+
 ### 日時
 2015年7月22日(水) ～ 8月6日(木)  
 
